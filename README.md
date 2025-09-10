@@ -41,7 +41,7 @@
 ## 🌍 Connect with Me  
 📫 **Email:** *vaidehiverma640@gmail.com*  
 💼 **LinkedIn:** *www.linkedin.com/in/vaidehi-verma-345875288*  
-🖥️ **Portfolio:** *[Add your portfolio here]*  
+🖥️ **Portfolio:** *[]*  
 
 ---
 

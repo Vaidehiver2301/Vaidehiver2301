@@ -1,4 +1,4 @@
-<div align="center">
+
 
 # Hi there, I'm Vaidehi Verma 👋  
 
@@ -33,11 +33,11 @@
 ## 🌍 Connect with Me  
 📫 **Email:** *vaidehiverma640@gmail.com*  
 💼 **LinkedIn:** *https://www.linkedin.com/in/vaidehi-verma-345875288*  
-🖥️ **Portfolio:** *[]*  
+🖥️ **Portfolio:** *https://vaidehivermaportfolio.netlify.app/*  
 
 ---
 
 ## 👀 Visitor Count  
 ![Visitor Count](https://komarev.com/ghpvc/?username=VaidehiVer2301&style=for-the-badge&color=blue)  
 
-</div>
+
